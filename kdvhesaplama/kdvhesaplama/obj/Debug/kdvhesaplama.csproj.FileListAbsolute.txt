@@ -1,0 +1,6 @@
+C:\Users\Elif İnci\Source\Repos\kdvhesaplama\kdvhesaplama\obj\Debug\kdvhesaplama.csproj.AssemblyReference.cache
+C:\Users\Elif İnci\Source\Repos\kdvhesaplama\kdvhesaplama\obj\Debug\kdvhesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif İnci\Source\Repos\kdvhesaplama\kdvhesaplama\obj\Debug\kdvhesaplama.Form1.resources
+C:\Users\Elif İnci\Source\Repos\kdvhesaplama\kdvhesaplama\obj\Debug\kdvhesaplama.Properties.Resources.resources
+C:\Users\Elif İnci\Source\Repos\kdvhesaplama\kdvhesaplama\obj\Debug\kdvhesaplama.csproj.GenerateResource.cache
+C:\Users\Elif İnci\Source\Repos\kdvhesaplama\kdvhesaplama\obj\Debug\kdvhesaplama.csproj.CoreCompileInputs.cache
